@@ -1,0 +1,29 @@
+[
+    {
+      "id": 101,
+      "make": "Tesla",
+      "model": "Cybertruck",
+      "expectedYear": 2024,
+      "estimatedRange": 500,
+      "estimatedPrice": 69900,
+      "image": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Cybertruck-Second-Hero-Desktop.jpg"
+    },
+    {
+      "id": 102,
+      "make": "Volkswagen",
+      "model": "ID. Buzz",
+      "expectedYear": 2024,
+      "estimatedRange": 300,
+      "estimatedPrice": 55000,
+      "image": "https://assets.volkswagen.com/is/image/volkswagenag/VW_NGW6_Showroom_IDBuzz_FocusTeaser_Wrapmate_2024jpg?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTE5MjAmaGVpPTEwODAmYWxpZ249MC4wMCwwLjAwJmJmYz1vZmYmM2E1Nw=="
+    },
+    {
+      "id": 103,
+      "make": "Rivian",
+      "model": "R2",
+      "expectedYear": 2025,
+      "estimatedRange": 400,
+      "estimatedPrice": 60000,
+      "image": "https://cdn.motor1.com/images/mgl/zxVpw4/s1/rivian-r2.jpg"
+    }
+  ]

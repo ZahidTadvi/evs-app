@@ -1,0 +1,141 @@
+[
+    {
+      "id": 1,
+      "make": "Tata",
+      "model": "Nexon EV",
+      "year": 2023,
+      "range": "312 km",
+      "price": "₹14.49 lakh",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/149123/nexon-ev-exterior-right-front-three-quarter-78.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 2,
+      "make": "MG",
+      "model": "ZS EV",
+      "year": 2023,
+      "range": "461 km",
+      "price": "₹22.98 lakh",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEpe349unNf64rVpQZHGGHlyYT720ivNcjQ&s"
+    },
+    {
+      "id": 3,
+      "make": "Hyundai",
+      "model": "Ioniq 5",
+      "year": 2023,
+      "range": "631 km",
+      "price": "₹44.95 lakh",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/110289/ioniq-5-exterior-right-front-three-quarter-95.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 4,
+      "make": "Mahindra",
+      "model": "XUV400 EV",
+      "year": 2023,
+      "range": "456 km",
+      "price": "₹15.99 lakh",
+      "image": "https://htcms-prod-images.s3.ap-south-1.amazonaws.com/htmobile1/mahindra_xuv400ev/images/colour_mahindra-xuv400ev_nebula-blue-dual-tone_930x620.jpg"
+    },
+    {
+      "id": 5,
+      "make": "BYD",
+      "model": "Atto 3",
+      "year": 2023,
+      "range": "521 km",
+      "price": "₹33.99 lakh",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBN_jLYhF2cBuDYJFT2Z7x0VLkNDEY4daF5A&s"
+    },
+    {
+      "id": 6,
+      "make": "Ola Electric",
+      "model": "S1 Pro",
+      "year": 2023,
+      "range": "181 km",
+      "price": "₹1.47 lakh",
+      "image": "https://m.media-amazon.com/images/I/51nncnfHU4L.jpg"
+    },
+    {
+      "id": 7,
+      "make": "Ather",
+      "model": "450X",
+      "year": 2023,
+      "range": "165 km",
+      "price": "₹1.38 lakh",
+      "image": "https://www.otocapital.in/_next/image?url=https%3A%2F%2Fassets.otocapital.in%2Fproduction%2Fcosmic-black-ather-450x-image.webp&w=1536&q=75"
+    },
+    {
+      "id": 8,
+      "make": "Bajaj",
+      "model": "Chetak EV",
+      "year": 2023,
+      "range": "95 km",
+      "price": "₹1.45 lakh",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq2_Of2wZZFnt-9dCZk_PDAEO5JpVmTk53KA&s"
+    },
+    {
+      "id": 9,
+      "make": "Revolt",
+      "model": "RV400",
+      "year": 2023,
+      "range": "150 km",
+      "price": "₹1.25 lakh",
+      "image": "https://cdn.bikedekho.com/processedimages/revolt-motors/rv-400/640X309/rv-400649126250faf2.jpg"
+    },
+    {
+      "id": 10,
+      "make": "Okinawa",
+      "model": "PraisePro",
+      "year": 2023,
+      "range": "100 km",
+      "price": "₹79,000",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/7/WI/HK/PX/53470137/okinawa-praise-pro-black-electric-scooter.jpg"
+    },
+    {
+      "id": 11,
+      "make": "Hero Electric",
+      "model": "Photon HX",
+      "year": 2023,
+      "range": "108 km",
+      "price": "₹91,000",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKvl6j_zYQ0I2Do0RBhg0Zz46GOoVHYWN0A&s"
+    },
+    {
+      "id": 12,
+      "make": "TVS",
+      "model": "iQube",
+      "year": 2023,
+      "range": "100 km",
+      "price": "₹1.15 lakh",
+      "image": "https://ev-india-bucket.s3.ap-south-1.amazonaws.com/uploads/vehicle_image/a43de445ac082546bee4f55ce3e6ebfb"
+    },
+     
+      
+    {
+        "id": 13,
+        "make": "Tesla",
+        "model": "Model 3",
+        "year": 2023,
+        "range": 358,
+        "price": 41990,
+        "image": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-3-Main-Hero-Desktop-NA.png"
+      },
+      {
+        "id": 14,
+        "make": "Chevrolet",
+        "model": "Bolt EV",
+        "year": 2023,
+        "range": 259,
+        "price": 26500,
+        "image": "https://www.chevroletarabia.com/content/dam/chevrolet/middle-east/master/english/index/electric/bolt-ev/design/2019-bolt-ev-ext-gal-02-meo.jpg?imwidth=2400"
+      },
+      {
+        "id": 15,
+        "make": "Ford",
+        "model": "Mustang Mach-E",
+        "year": 2023,
+        "range": 314,
+        "price": 45995,
+        "image": "https://build.ford.com/dig/Ford/Mache/2024/HD-FULL%5BEXTBCK1%5D/Image%5B%7CFord%7CMache%7C2024%7C1%7C1.%7C400A...PG1...895.64D.AWD.99X.66D.%5D/EXT/4/vehicle.png"
+      }
+    ]
+    
+    
